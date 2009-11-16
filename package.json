@@ -1,6 +1,14 @@
 {
-    "name": "JSON Tools",
-    "author": "Kris Zyp",
-    "dependencies": [],
-    "contributors": []
+	"name": "json-tools",
+	"author": "Kris Zyp",
+	"dependencies": [],
+	"contributors": [],
+	"keywords": [
+		"json",
+		"schema",
+		"query"
+	],
+	"githubName": "json-tools",
+	"type": "zip",
+	"location": "http://github.com/kriszyp/json-tools/zipball/master"
 }
